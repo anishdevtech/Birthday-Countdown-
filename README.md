@@ -17,8 +17,3 @@ This project is a birthday countdown generator. In order for the countdown to be
 * CSS
 * HTML
 
-
-# Contact
-Troy Domio - <a href="https://www.linkedin.com/in/troydomio/" target="_blank">Connect with me on Linkedin :D </a>
-
-<a href="https://troydomio.github.io/birthdaycountdowntimer/" target="_blank">View Demo</a>
