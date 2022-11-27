@@ -1,6 +1,6 @@
 
 // grab HTML elements 
-function image(){
+function imageChanger(){
 const images = [
 'https://media.discordapp.net/attachments/1005924165255168123/1046416793524244551/Picsart_22-10-08_17-40-30-325-01.jpg',
 'https://media.discordapp.net/attachments/1005924165255168123/1046416793952071740/Screenshot_20221008-173124_Instagram-01.jpg',
