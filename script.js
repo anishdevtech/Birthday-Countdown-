@@ -10,7 +10,10 @@ const images = [
 let imageNo = Math.floor(Math.random() * 5
 ); 
 let image = images[imageNo]
-document.getElementById('body').style.backgroundImage = `url(${image})`
+const bodytag = document.getElementById('body')
+bodytag.style.backgroundImage = `url(${image})`
+bodytag.style.backgroundSize = `auto`
+
 }
 const daysHtml = document.getElementById('days');
 const hoursHtml = document.getElementById('hours');
