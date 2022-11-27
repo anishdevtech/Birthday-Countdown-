@@ -9,10 +9,10 @@ const minutesHtml = document.getElementById('minutes');
 const secondsHtml =document.getElementById('seconds');
    
     const day = 29
-    const month = 11    const year = 2022
+    const month = 11   
+    const year = 2022
    
 
-    form.remove()
     
     const birthday = day
     const birthmonth = month 
