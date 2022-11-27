@@ -12,7 +12,7 @@ let imageNo = Math.floor(Math.random() * 5
 let image = images[imageNo]
 const bodytag = document.getElementById('body')
 bodytag.style.backgroundImage = `url(${image})`
-bodytag.style.backgroundSize = `auto`
+bodytag.style.backgroundSize = `100% auto`
 
 }
 const daysHtml = document.getElementById('days');
