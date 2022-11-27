@@ -1,7 +1,12 @@
 
 // grab HTML elements 
 
-
+const images = [
+'',
+'',
+'',
+''
+]
 
 const daysHtml = document.getElementById('days');
 const hoursHtml = document.getElementById('hours');
