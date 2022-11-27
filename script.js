@@ -1,20 +1,17 @@
 
 // grab HTML elements 
 
-const form = document.getElementById('form')
+
+
 const daysHtml = document.getElementById('days');
 const hoursHtml = document.getElementById('hours');
 const minutesHtml = document.getElementById('minutes');
 const secondsHtml =document.getElementById('seconds');
-
-
-form.addEventListener('submit', (e) =>  {
-    e.preventDefault();
    
-    const day = document.getElementById('day').value
-    const month = document.getElementById('month').value
-    const year = document.getElementById('year').value
-    const form = document.getElementById('form')
+    const day = 29
+    const month = 11document.getElementById('month').value
+    const year = 2022
+    const year 
 
     form.remove()
     
@@ -51,7 +48,7 @@ form.addEventListener('submit', (e) =>  {
         countDown();
         setInterval(countDown,1000)
 
-})
+
 
 
 
