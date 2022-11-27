@@ -10,7 +10,7 @@ const images = [
 let imageNo = Math.floor(Math.random() * 3
 ); 
 let image = images[imageNo]
-document.getElementById('body').style
+document.getElementById('body').style.backgroundImage = image
 const daysHtml = document.getElementById('days');
 const hoursHtml = document.getElementById('hours');
 const minutesHtml = document.getElementById('minutes');
